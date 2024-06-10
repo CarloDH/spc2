@@ -1,4 +1,4 @@
-# test branch jenkinsfile sample
+// test branch jenkinsfile sample
 
 pipeline {
     agent any
