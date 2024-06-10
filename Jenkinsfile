@@ -1,4 +1,4 @@
-# master branch jenkinsfile sample
+// master branch jenkinsfile sample
 
 pipeline {
     agent any
